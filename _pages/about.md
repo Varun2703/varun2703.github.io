@@ -14,3 +14,9 @@ I graduated with a Bachelor's in Computer Science from [BITS Pilani](https://www
 I am interested in cryptography. More specifically, I am interested in anonymity and privacy-preserving multiparty protocols and their applications to real-world systems like blockchains. Find my latest resume [here](/files/resume.pdf)
 
 Reach me at *vrmadath AT ncsu DOT edu*
+
+### Publications
+
+- [On the anonymity guarantees of anonymous proof-of-stake protocols](https://eprint.iacr.org/2021/409.pdf). Markulf Kohlweiss, Varun Madathil, Kartik Nayak and Alessandra Scafuro. To appear at **S&P 2021**
+
+- [Anonymous Lottery in the Proof-of-Stake Setting](https://eprint.iacr.org/2020/533.pdf). Foteini Baldimtsi, Varun Madathil, Alessandra Scafuro, Linfeng Zhou. Computer Security Foundations Symposium, **CSF 2020**.
