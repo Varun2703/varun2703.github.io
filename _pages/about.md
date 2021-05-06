@@ -17,6 +17,8 @@ Reach me at *vrmadath AT ncsu DOT edu*
 
 ### Publications
 
+- [Anonymous Device Authorization for Cellular Networks](https://varun2703.github.io).  Abida Haque, Varun Madathil, Brad Reaves, Alessandra Scafuro. To appear at **WiSec 2021**
+
 - [On the anonymity guarantees of anonymous proof-of-stake protocols](https://eprint.iacr.org/2021/409.pdf). Markulf Kohlweiss, Varun Madathil, Kartik Nayak and Alessandra Scafuro. To appear at **S&P 2021**
 
 - [Anonymous Lottery in the Proof-of-Stake Setting](https://eprint.iacr.org/2020/533.pdf). Foteini Baldimtsi, Varun Madathil, Alessandra Scafuro, Linfeng Zhou. Computer Security Foundations Symposium, **CSF 2020**.
