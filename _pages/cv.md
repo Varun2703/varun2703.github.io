@@ -28,7 +28,7 @@ Work experience
 
 * Summer 2018: Research Intern
   * George Mason University
-  * Supervisor: [Foteini Baldimtsi](https://www.baldimtsi.com/)
+  * Supervisor: [Dr. Foteini Baldimtsi](https://www.baldimtsi.com/)
 
 
 
