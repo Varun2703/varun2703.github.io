@@ -8,4 +8,5 @@ date: '18 May 2021'
 location: "Remote"
 ---
 
-[Coming soon]()
+[S&P 2021](https://youtu.be/nW6n-42O-Yw)
+[TPBC 2021](https://www.youtube.com/watch?v=xVBpbSg-bQg)
