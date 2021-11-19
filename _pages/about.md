@@ -15,13 +15,12 @@ I am interested in cryptography. More specifically, I am interested in anonymity
 
 Reach me at *vrmadath AT ncsu DOT edu*
 
-### Preprints
 
-- [Private Signaling](https://eprint.iacr.org/2021/853.pdf). Varun Madathil, Alessandra Scafuro, Istvan Andras Seres, Omer Shlomovits, Denis Varlakov.
+
 
 ### Publications
 
-
+- [Private Signaling](https://eprint.iacr.org/2021/853.pdf). Varun Madathil, Alessandra Scafuro, Istvan Andras Seres, Omer Shlomovits, Denis Varlakov. To appear at **USENIX 2022**
 
 - [Anonymous Device Authorization for Cellular Networks](https://eprint.iacr.org/2021/753.pdf).  Abida Haque, Varun Madathil, Brad Reaves, Alessandra Scafuro. **WiSec 2021**
 
