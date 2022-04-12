@@ -20,6 +20,8 @@ Reach me at *vrmadath AT ncsu DOT edu*
 
 ### Publications
 
+- [From Privacy-Only to Simulatable OT: Black-Box, Round-Optimal, Information-theoretic](https://eprint.iacr.org/2022/034.pdf). Varun Madathil, Chris Orsini, Alessandra Scafuro, and Daniele Venturi. To appear at **ITC 2022**
+
 - [Private Signaling](https://eprint.iacr.org/2021/853.pdf). Varun Madathil, Alessandra Scafuro, Istvan Andras Seres, Omer Shlomovits, Denis Varlakov. To appear at **USENIX 2022**
 
 - [Anonymous Device Authorization for Cellular Networks](https://eprint.iacr.org/2021/753.pdf).  Abida Haque, Varun Madathil, Brad Reaves, Alessandra Scafuro. **WiSec 2021**
