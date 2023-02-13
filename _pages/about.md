@@ -20,7 +20,7 @@ Reach me at *vrmadath AT ncsu DOT edu*
 
 ### Publications
 
-- [Practical Decentralized Oracle Contracts for Cryptocurrencies] (https://eprint.iacr.org/2022/499.pdf). Varun Madathil, Sri AravindaKrishnan Thyagarajan, Dimitrios Vasilopoulos, Giulio Malavolta, Lloyd Fournier, Pedro Moreno-Sanchez. **NDSS 2023**
+- [Practical Decentralized Oracle Contracts for Cryptocurrencies](https://eprint.iacr.org/2022/499.pdf). Varun Madathil, Sri AravindaKrishnan Thyagarajan, Dimitrios Vasilopoulos, Giulio Malavolta, Lloyd Fournier, Pedro Moreno-Sanchez. **NDSS 2023**
 
 - [Preserving Buyer-Privacy in Decentralized Supply Chain Marketplaces](https://eprint.iacr.org/2022/105.pdf). Varun Madathil, Alessandra Scafuro, Kemafor Anyanwu, Sen Qiao, Akash Pateria, and Binil Starly. **CBT 2022**
 
