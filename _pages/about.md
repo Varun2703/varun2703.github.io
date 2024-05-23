@@ -20,6 +20,8 @@ Reach me at *vrmadath AT ncsu DOT edu*
 
 ### Publications
 
+- [HomeRun: High-efficiency Oblivious Message Retrieval, Unrestricted](https://eprint.iacr.org/2024/188.pdf). Yanxue Jia, Varun Madathil,  Aniket Kate. **CCS 2024**
+
 - [Cryptographic Oracle-Based Conditional Payments](https://eprint.iacr.org/2022/499.pdf). Varun Madathil, Sri AravindaKrishnan Thyagarajan, Dimitrios Vasilopoulos, Giulio Malavolta, Lloyd Fournier, Pedro Moreno-Sanchez. **NDSS 2023**
 
 - [Preserving Buyer-Privacy in Decentralized Supply Chain Marketplaces](https://eprint.iacr.org/2022/105.pdf). Varun Madathil, Alessandra Scafuro, Kemafor Anyanwu, Sen Qiao, Akash Pateria, and Binil Starly. **CBT 2022**
@@ -34,3 +36,9 @@ Reach me at *vrmadath AT ncsu DOT edu*
 - [On the anonymity guarantees of anonymous proof-of-stake protocols](https://eprint.iacr.org/2021/409.pdf). Markulf Kohlweiss, Varun Madathil, Kartik Nayak and Alessandra Scafuro. **S&P 2021**
 
 - [Anonymous Lottery in the Proof-of-Stake Setting](https://eprint.iacr.org/2020/533.pdf). Foteini Baldimtsi, Varun Madathil, Alessandra Scafuro, Linfeng Zhou.  **CSF 2020**.
+
+### Manuscripts
+
+- [PriFHEte: : Achieving Full-Privacy in Account-based Cryptocurrencies is Possible](https://eprint.iacr.org/2023/710.pdf). Varun Madathil, Alessandra Scafuro. 
+
+- [Scalable Private Signaling](https://eprint.iacr.org/2023/572.pdf). Sashidhar Jakkamsetti, Zeyu Liu, and Varun Madathil. 
