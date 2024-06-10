@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in the [Department of Computer Science](https://www.csc.ncsu.edu/) at North Carolina State University, and a member of the [Wolfpack Privacy and Research Lab](https://wspr.csc.ncsu.edu/) where I am advised by [Dr. Alessandra Scafuro](https://sites.google.com/ncsu.edu/ascafuro/).
-I graduated with a Bachelor's in Computer Science from [BITS Pilani](https://www.bits-pilani.ac.in/) in 2016.
+Hi! I am Varun Madathil, I will be starting as a postdoc at Yale University in the Fall of 2024. 
+
+I was incredibly fortunate to be advised by [Dr. Alessandra Scafuro](https://sites.google.com/ncsu.edu/ascafuro/) during my time as a Ph.D. student in the [Wolfpack Privacy and Research Lab](https://wspr.csc.ncsu.edu/) at North Carolina State University. During my Ph.D. I had the opportunity to visit [Dr. Foteini Baldimtsi](https://www.baldimtsi.com) at George Mason University in 2018, [Dr. Markulf Kohlweiss](https://homepages.inf.ed.ac.uk/mkohlwei/) at University of Edinburgh in 2019, [Dr. Pedro-Moreno Sanchez](https://software.imdea.org/~pedro.moreno/) in 2021 and more recently [Dr. Aniket Kate](https://www.cs.purdue.edu/homes/akate/) in 2024 at Purdue University. 
+
+
+Prior to my Ph.D. I graduated with a Bachelor's degree in Computer Science from [BITS Pilani](https://www.bits-pilani.ac.in/) in 2016.
 
 I am interested in cryptography. More specifically, I am interested in anonymity and privacy-preserving multiparty protocols and their applications to real-world systems like blockchains. Find my latest resume [here](/files/resume.pdf)
 
@@ -19,6 +23,8 @@ Reach me at *vrmadath AT ncsu DOT edu*
 
 
 ### Publications
+
+(authors are ordered alphabetically)
 
 - [HomeRun: High-efficiency Oblivious Message Retrieval, Unrestricted](https://eprint.iacr.org/2024/188.pdf). Yanxue Jia, Varun Madathil,  Aniket Kate. **CCS 2024**
 
@@ -42,3 +48,5 @@ Reach me at *vrmadath AT ncsu DOT edu*
 - [PriFHEte: : Achieving Full-Privacy in Account-based Cryptocurrencies is Possible](https://eprint.iacr.org/2023/710.pdf). Varun Madathil, Alessandra Scafuro. 
 
 - [Scalable Private Signaling](https://eprint.iacr.org/2023/572.pdf). Sashidhar Jakkamsetti, Zeyu Liu, and Varun Madathil. 
+
+- Jager: Automated Telephone Call Traceback. David Adei, Varun Madathil, Sathvik Prasad, Bradley Reaves, Alessandra Scafuro. 
