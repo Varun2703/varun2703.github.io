@@ -49,6 +49,10 @@ Reach me at *[varun.madathil@yale.edu](mailto:varun.madathil@yale.edu)*
 
 - [PriFHEte: : Achieving Full-Privacy in Account-based Cryptocurrencies is Possible](https://eprint.iacr.org/2023/710.pdf). Varun Madathil, Alessandra Scafuro. 
 
-- [Scalable Private Signaling](https://eprint.iacr.org/2023/572.pdf). Sashidhar Jakkamsetti, Zeyu Liu, and Varun Madathil. 
+- [Scalable Private Signaling](https://eprint.iacr.org/2023/572.pdf). Sashidhar Jakkamsetti, Zeyu Liu, and Varun Madathil.
+
+
+### Service 
+I am or will serve in the program committee for the following conferences: CCS 2025, Financial Crypto 2025, Oakland S&P 2025
 
 
