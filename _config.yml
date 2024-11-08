@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Varun Madathil"
 title_separator          : "-"
 name                     : &name "Varun Madathil"
-description              : &description "PhD student"
+description              : &description "Postdoctoral Associate"
 url                      : https://varun2703.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "varun2703/varun2703.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Varun Madathil"
   avatar           : "/varun-profile.jpg"
-  bio              : "PhD Student in Cryptography at NCSU"
-  location         : "Raleigh, NC"
+  bio              : "Postdoctoral Associate at Yale University"
+  location         : "New Haven, CT"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=qFZRTKUAAAAJ&hl=en&oi=ao"
