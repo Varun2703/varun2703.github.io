@@ -26,6 +26,8 @@ Reach me at *[varun.madathil@yale.edu](mailto:varun.madathil@yale.edu)*
 
 (authors are ordered alphabetically)
 
+- [Scalable Private Signaling](https://eprint.iacr.org/2023/572.pdf). Sashidhar Jakkamsetti, Zeyu Liu, and Varun Madathil. **CSF 2025**
+
 - [Jager: Automated Telephone Call Traceback](https://arxiv.org/abs/2409.02839). David Adei, Varun Madathil, Sathvik Prasad, Bradley Reaves, Alessandra Scafuro. **CCS 2024** (<span style="color:blue">Distinguished Paper Award</span>)
 
 - [HomeRun: High-efficiency Oblivious Message Retrieval, Unrestricted](https://eprint.iacr.org/2024/188.pdf). Yanxue Jia, Varun Madathil,  Aniket Kate. **CCS 2024**
@@ -47,12 +49,20 @@ Reach me at *[varun.madathil@yale.edu](mailto:varun.madathil@yale.edu)*
 
 ### Manuscripts
 
-- [PriFHEte: : Achieving Full-Privacy in Account-based Cryptocurrencies is Possible](https://eprint.iacr.org/2023/710.pdf). Varun Madathil, Alessandra Scafuro. 
+- [PriFHEte: Achieving Full-Privacy in Account-based Cryptocurrencies is Possible](https://eprint.iacr.org/2023/710.pdf). Varun Madathil, Alessandra Scafuro.
 
-- [Scalable Private Signaling](https://eprint.iacr.org/2023/572.pdf). Sashidhar Jakkamsetti, Zeyu Liu, and Varun Madathil.
+
+- [Improved Polynomial Division in Cryptography](https://eprint.iacr.org/2024/1279.pdf). Kostas Kryptos Chalkias, Charanjit Jutla, Jonas Lindstrøm, Varun Madathil, and Arnab Roy. 
+
+
+- [SoK: Privacy-Preserving Transactions in Blockchains](https://eprint.iacr.org/2024/1959.pdf). Foteini Baldimtsi, Kostas Kryptos Chalkias, Varun Madathil, and Arnab Roy.
+
+
 
 
 ### Service 
-I am or will serve in the program committee for the following conferences: CCS 2025, Financial Crypto 2025, Oakland S&P 2025
+I am or will serve in the program committee for the following conferences:
+- **2026** : Oakland S&P, USENIX
+- **2025** : Oakland S&P 2025, CCS, Financial Crypto 
 
 
